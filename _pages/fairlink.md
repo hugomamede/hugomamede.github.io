@@ -9,13 +9,13 @@ layout: default
 <p>Tem uma componente de aplicação <i>web</i> e outra de analítica <i>offline</i> que automatiza processos de gestão de <i>stock</i>, garante que mais alimentos são doados a mais indivíduos carenciados e gera métricas de sustentabilidade que oferecem reputação à loja e criam referências de boas práticas no setor.</p>
 <p>Num cenário em que mais de mil milhões de toneladas de alimentos são desperdiçados anualmente em Portugal<a href="#section1">[1]</a>, cerca de 30% desse desperdício na fase da distribuição, a <a href="https://fairlink.pt/">Fairlink</a> propõe-se a:
 <ul>
-  <li>Automatizar a doação de mais de 60.000 toneladas de alimentos para o setor social.<a href="#section2">[2]</a></li>
+  <li>Doar mais de 60.000 toneladas de alimentos para o setor social.<a href="#section2">[2]</a></li>
   <li>Garantir até 560.000€ em deduções fiscais para os supermercados doadores.<a href="#section3">[3]</a></li>
   <li>Apoiar a população que enfrenta «insegurança alimentar» (10% das famílias portuguesas).<a href="#section4">[4]</a></li>
 </ul>
 </p>
 
- <img src="\images\fairlink2.png" style="float: center; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="\images\fairlink2.png" style="float: center; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="\images\fairlink3.png" style="float: center; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
 
 <p>A <a href="https://fairlink.pt/">Fairlink</a> é um projeto de empreendedorismo social de Hugo Mamede e <a href="https://github.com/sscosta">Samuel Costa</a>. Pedidos de envio de <i>pitch deck</i> <a href="mailto:fairlink@fairlink.pt">por email</a>.
