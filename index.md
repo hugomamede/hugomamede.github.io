@@ -8,7 +8,11 @@ layout: default
 <br>
 É co-fundador da <a href="\fairlink">Fairlink</a> para o combate ao desperdício alimentar. Produziu o <a href="\cavalo-de-troia">programa Cavalo de Troia</a> para o FOLIO – Festival Literário Internacional de Óbidos. Criou a <a href="\figura-durso">editora Figura d'Urso</a>, dedicada a literatura experimental. Escreveu o <a href="\baleia-branca">guião «Baleia Branca»</a> para o concurso da Netflix-ICA.	
 <<<<<<< HEAD
+<<<<<<< HEAD
 </p>
+=======
+</p>
+>>>>>>> cba302cfeaf87de2439e5b4eb42a9aaafb23e08f
 =======
 </p>
 >>>>>>> cba302cfeaf87de2439e5b4eb42a9aaafb23e08f
